@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1495928857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb65faaaea9e254cf5579f5141de92b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 25b0de44755a2b3dd1af8bc0a7e5588f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownloadSample/AssetBundleResources/Prefabs/BaseHPPrefab.prefab
+- Assets/DownloadSample/AssetBundleResources/Prefabs/BaseAttackPrefab.prefab
+Dependencies:
+- /Users/Teach/UnityProjects/SampleProjects/ABDownloadFromGHPages/AssetBundles/dep

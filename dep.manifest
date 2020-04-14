@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2778419778
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6aa3f7b38075cee8c6af66f0de70f57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 192e690a6ab30273b050a05752742228
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/DownloadSample/AssetBundleResources/Sprites/base_hp.png
+- Assets/DownloadSample/AssetBundleResources/Sprites/base_attack.png
+- Assets/DownloadSample/AssetBundleResources/Sprites/Sprites.spriteatlas
+Dependencies: []
