@@ -1,0 +1,2 @@
+# AssetBundlesForDownloadTest
+AssetBundleを手っ取り早く公開するために作成。
