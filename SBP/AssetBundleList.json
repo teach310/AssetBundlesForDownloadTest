@@ -1,0 +1,75 @@
+{
+    "version": 1,
+    "assetBundleInfoList": [
+        {
+            "name": "AssetBundles/SBP/Prefabs001",
+            "hash": "0a484e8398d9fd7af35ad001e8ac514e",
+            "fileHash": "0a484e8398d9fd7af35ad001e8ac514e",
+            "size": 4008,
+            "directDependencies": [
+                "PrefabsDep",
+                "Sprites",
+                "UnityBuiltInShaders.bundle"
+            ],
+            "assetNames": [
+                "Assets/DownloadSample/AssetBundleResources/Prefabs/001/BaseAttackPrefab.prefab"
+            ]
+        },
+        {
+            "name": "AssetBundles/SBP/Prefabs002",
+            "hash": "3e2d5eba4f91eb98da5ab96fee4a333a",
+            "fileHash": "3e2d5eba4f91eb98da5ab96fee4a333a",
+            "size": 4007,
+            "directDependencies": [
+                "PrefabsDep",
+                "Sprites",
+                "UnityBuiltInShaders.bundle"
+            ],
+            "assetNames": [
+                "Assets/DownloadSample/AssetBundleResources/Prefabs/002/BaseHPPrefab.prefab"
+            ]
+        },
+        {
+            "name": "AssetBundles/SBP/Prefabs003",
+            "hash": "a520d3914b0139dca1b77c67bb9b60b7",
+            "fileHash": "a520d3914b0139dca1b77c67bb9b60b7",
+            "size": 34699,
+            "directDependencies": [
+                "UnityBuiltInShaders.bundle"
+            ],
+            "assetNames": [
+                "Assets/DownloadSample/AssetBundleResources/Prefabs/003/Cube.prefab"
+            ]
+        },
+        {
+            "name": "AssetBundles/SBP/Sprites",
+            "hash": "436f8245183409ec9bd700f3daaf859d",
+            "fileHash": "436f8245183409ec9bd700f3daaf859d",
+            "size": 7334,
+            "directDependencies": [],
+            "assetNames": [
+                "Assets/DownloadSample/AssetBundleResources/Sprites/Sprites.spriteatlas",
+                "Assets/DownloadSample/AssetBundleResources/Sprites/base_attack.png",
+                "Assets/DownloadSample/AssetBundleResources/Sprites/base_hp.png"
+            ]
+        },
+        {
+            "name": "AssetBundles/SBP/PrefabsDep",
+            "hash": "aa96f0dea43b4e5074af96aa6f57817c",
+            "fileHash": "aa96f0dea43b4e5074af96aa6f57817c",
+            "size": 7365,
+            "directDependencies": [],
+            "assetNames": [
+                "Assets/DownloadSample/AssetBundleResources/Prefabs/Dep/Circle.png"
+            ]
+        },
+        {
+            "name": "AssetBundles/SBP/UnityBuiltInShaders.bundle",
+            "hash": "3fc180dd8f6f9eaf4d5ac77bb4be7f66",
+            "fileHash": "3fc180dd8f6f9eaf4d5ac77bb4be7f66",
+            "size": 35047,
+            "directDependencies": [],
+            "assetNames": []
+        }
+    ]
+}
